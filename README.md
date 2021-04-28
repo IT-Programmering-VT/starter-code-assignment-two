@@ -33,7 +33,7 @@ Go through these steps to solve the assigment.
 
 1. Start by creating an object called account and define all the properties above. Initiate balance to 100 from start. You can start by just leaving the function properties empty if that makes it easier. Like this: getBalance: function () { },
 
-2. You will be able to clone starter code that i provided for you and you can also find some guiding images in the code repository. Check the pdf file. You can use a switch or if/else statement to create the navigate in the menu but comment what you based your choice on, you can comment in the code. 
+2. You will be able to clone starter code that i provided for you and you can also find some guiding images in the code repository. Check the **images.pdf** file. You can use a switch or if/else statement to create the navigate in the menu but comment what you based your choice on, you can comment in the code. 
 
 3. The first function that is a property of the account object is getBalance. This function should display the account balance for the user. At start the account balance is 100 but this can change depending on if the user makes a deposit or withdrawal. Don't forget to point at the actual property of the object. After get balance has been called you need to show the menu to the user again.
 
