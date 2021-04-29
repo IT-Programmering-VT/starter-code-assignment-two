@@ -16,16 +16,16 @@ You will also have to handle errors, like wrong input. Some functions for this a
 
 The objects should have the following properties. You can also see what data type each property should be.
 
-Object name: account
+**Object name: account**
 Properties of the object:
-accountName: String,
-balance: Number (initiate this to 100 from start),
-getBalance: function,
-deposit: function,
-withdrawal: function,
-getAccountName: function,
-accountError: function,
-exitAccount: function
+- accountName: String,
+- balance: Number (initiate this to 100 from start),
+- getBalance: function,
+- deposit: function,
+- withdrawal: function,
+- getAccountName: function,
+- accountError: function,
+- exitAccount: function
 
 **STEPS:**
 
